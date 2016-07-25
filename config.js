@@ -4,6 +4,6 @@ var monitors = [
     "m778001636-5dc662f4d630ec8199ed1484", // API production
 
 ];
-var title = 'BudBbuds.pw status'; // Page <title> and heading at top of page
+var title = 'Budbuds.pw status'; // Page <title> and heading at top of page
 var refreshtime = 60; // How often to refresh in seconds
-var footermessage = 'lorem ipsum dolor'; // HTML to go in footer
+var footermessage = 'If you are experiencing any issues please contact <a href="mailto:guigo2k@guigo2k.com>guigo2k@guigo2k.com</a>.'; // HTML to go in footer
